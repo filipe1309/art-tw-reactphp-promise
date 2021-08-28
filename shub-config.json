@@ -1,0 +1,13 @@
+{
+  "version": "0.19.0",
+  "username": "Filipe Leuch Bonfim",
+  "github_username": "filipe1309",
+  "project_name": "Reactphp Promise",
+  "project_repo_name": "art-tw-reactphp-promise",
+  "project_repo_link": "https://github.com/filipe1309/art-tw-reactphp-promise.git",
+  "course_name": "Promises no ReactPHP",
+  "course_link": "https://www.treinaweb.com.br/blog/promises-no-reactphp/",
+  "course_type": "article",
+  "course_multiple": "false",
+  "vcs": "false"
+}
