@@ -1,0 +1,12 @@
+{
+  "name": "devontherun/art-tw-reactphp-promise",
+  "authors": [
+    {
+      "name": "Filipe Leuch Bonfim",
+      "email": "filipe1309@gmail.com"
+    }
+  ],
+  "require": {
+    "react/promise": "^2.8"
+  }
+}

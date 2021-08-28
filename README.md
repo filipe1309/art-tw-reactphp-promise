@@ -7,7 +7,7 @@
 
 ## 💬 About
 
-This project was developed following [Promises no ReactPHP](https://www.treinaweb.com.br/blog/promises-no-reactphp/) article.
+This project was developed following TreinaWeb [Promises no ReactPHP](https://www.treinaweb.com.br/blog/promises-no-reactphp/) article.
 
 ## :computer: Technologies
 
