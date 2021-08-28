@@ -1,4 +1,4 @@
-# <p align="center">Reactphp Promise</p>
+# <p align="center">ReactPHP Promise</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF" alt="PHP" />
